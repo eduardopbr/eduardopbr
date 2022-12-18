@@ -1,7 +1,7 @@
 ### Olá, meu nome é Eduardo Peroni
 
 - 🔭 Cursando Engenharia de Computação pela UTFPR
-- 🌱 Estudando ASP.NET
+- 🌱 Estudando .NET
 
 <div align="center">
   <a href="https://github.com/eduardopbr">
